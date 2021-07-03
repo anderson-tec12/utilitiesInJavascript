@@ -1,1 +1,0 @@
-I add here small scripts that are useful on a daily basis, from very specific cases to something more reusable
